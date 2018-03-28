@@ -8,19 +8,19 @@
 
 _Simple exercise experimenting with Forms, JQuery, Bootstrap, CSS and HTML._
 
-_Specs from Leap Year Lessons
-The program should return when a year is not a leap year.
-Input Example: 1993
-Output Example: false
-The program should return 'true' for years divisible by 4, since those are leap years.
-Input Example: 2004
-Output Example: true
-The program should return 'false' for years divisible by 100, since those are not leap years.
-Input Example: 1900
-Output Example: false
-The program should return 'true' for years divisible by 400, since those are leap years.
-Input Example: 2000
-Output Example: true_
+_Specs from Leap Year Lessons_
+_The program should return when a year is not a leap year._
+_Input Example: 1993_
+_Output Example: false_
+_The program should return 'true' for years divisible by 4, since those are leap years._
+_Input Example: 2004_
+_Output Example: true_
+_The program should return 'false' for years divisible by 100, since those are not leap years._
+_Input Example: 1900_
+_Output Example: false_
+_The program should return 'true' for years divisible by 400, since those are leap years._
+_Input Example: 2000_
+_Output Example: true_
 
 ## Setup/Installation Requirements
 
